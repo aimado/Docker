@@ -1,0 +1,11 @@
+Docker ps
+Docker ps –a
+
+Docker run –d ContainerID  
+Docker stop ContainerID 
+Docker start ContainerID 
+
+Docker logs ContainerID
+Docker rm 
+Docker rmi 
+Docker exec –ti ContainerID /bin/bash
